@@ -1,0 +1,29 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(212, 0, 255);
+}
+p {
+    font-size: 30px;
+    color: red;
+}
+
+header {
+    color: black;
+    background-color: white;
+    font-size: 100px;
+    text-decoration: none;
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 10px;
+    padding: 5px;
+    margin: 30px;
+
+}
+.icons {
+       height: 250px;
+    width: 250px;
+}
+
+.cons {
+       height: 300px;
+    width: 300px;
+}
